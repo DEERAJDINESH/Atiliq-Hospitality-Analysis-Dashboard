@@ -1,0 +1,2 @@
+# ATLIQ HOSPITALITY ANALYSIS
+## This Power BI project analyzes the performance of Atliq Hospitality’s hotel chain across Delhi, Mumbai, Hyderabad, and Bengaluru. The analysis covers key areas such as customer reviews, revenue, and realization to evaluate overall hospitality performance. Interactive dashboards provide actionable insights, helping management identify strengths, address weaknesses, and drive business growth.
